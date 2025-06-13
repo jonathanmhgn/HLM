@@ -3,15 +3,11 @@
   "locale": "en_US",
   "platform": "4.4.1",
   "metadata": {
-    "appmode": "quarto-shiny",
-    "primary_rmd": "hlm.qmd",
+    "appmode": "shiny",
+    "primary_rmd": null,
     "primary_html": null,
     "content_category": null,
     "has_parameters": false
-  },
-  "quarto": {
-    "version": "1.3.353",
-    "engines": ["knitr"]
   },
   "packages": {
     "BH": {
@@ -4756,11 +4752,11 @@
     }
   },
   "files": {
+    "app.R": {
+      "checksum": "0922b10ea8941a8fe5053495074e8e73"
+    },
     "hlm.qmd": {
       "checksum": "ef6c89e9daf9d49b84677b1a4d7bc674"
-    },
-    "hlm.R": {
-      "checksum": "0922b10ea8941a8fe5053495074e8e73"
     },
     "README.md": {
       "checksum": "050947b4234c1ed908e74c0fd4f33e49"
