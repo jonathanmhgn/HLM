@@ -3,7 +3,7 @@
   "locale": "en_US",
   "platform": "4.4.1",
   "metadata": {
-    "appmode": "quarto-shiny",
+    "appmode": "shiny",
     "primary_rmd": "hlm.qmd",
     "primary_html": null,
     "content_category": null,
